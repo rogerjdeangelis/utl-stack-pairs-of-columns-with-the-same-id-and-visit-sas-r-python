@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_stack_datastep",
+  "source_file": "utl-stack-pairs-of-columns-with-the-same-id-and-visit-sas-r-python.sas",
+  "source_blob_sha": "4edc0d2c2b132ed3806f9fb2413b6a2718e4c1de",
+  "source_commit": "6f298a2d4c7d99ba945b092ca77f9047486c23ec",
+  "notes": "Solution 1 (SAS data step): stacks the (a1,b1) and (a2,b2) column pairs into a single (a,b) pair via SET with two rename= views of the same inline dataset. Input from author's inline cards4 verbatim; hardcoded libname d:/sd1 dropped so HAVE lives in WORK."
+}

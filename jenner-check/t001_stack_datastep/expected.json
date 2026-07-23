@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-23T14:13:34Z",
+  "_captured_run_id": "r_96bd480b825a49bea78bb02ebb532528",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Option VALIDVARNAME changed to UPCASE.",
+    "NOTE: Wrote have (4 rows, 6 columns).",
+    "NOTE: Wrote want (8 rows, 8 columns).",
+    "NOTE: PROC PRINT completed: 8 observations printed, 8 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
