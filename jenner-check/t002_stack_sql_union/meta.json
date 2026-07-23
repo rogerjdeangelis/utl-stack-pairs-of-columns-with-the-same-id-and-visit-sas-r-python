@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_stack_sql_union",
+  "source_file": "utl-stack-pairs-of-columns-with-the-same-id-and-visit-sas-r-python.sas",
+  "source_blob_sha": "4edc0d2c2b132ed3806f9fb2413b6a2718e4c1de",
+  "source_commit": "6f298a2d4c7d99ba945b092ca77f9047486c23ec",
+  "notes": "Solution 2 (PROC SQL UNION ALL): stacks the (a1,b1) and (a2,b2) column pairs into a single (a,b) pair via two SELECTs joined by UNION ALL. Query and inline cards4 input preserved verbatim; hardcoded libname d:/sd1 dropped so HAVE lives in WORK."
+}
